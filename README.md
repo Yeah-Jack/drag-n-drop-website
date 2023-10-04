@@ -1,1 +1,2 @@
-"# Simple-Drag-and-Drop-Website" 
+# Simple Drag & Drop Website
+Written in HTML, CSS, and Javascript
