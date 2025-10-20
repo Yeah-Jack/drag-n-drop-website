@@ -1,4 +1,4 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/yeah-jack/simple-drag-and-drop-website/badge)](https://www.codefactor.io/repository/github/yeah-jack/simple-drag-and-drop-website)
+[![CodeFactor](https://www.codefactor.io/repository/github/yeah-jack/drag-n-drop-website/badge)](https://www.codefactor.io/repository/github/yeah-jack/drag-n-drop-website)
 
 # Simple Drag & Drop Website
 
